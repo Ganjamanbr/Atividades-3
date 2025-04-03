@@ -8,6 +8,8 @@ programa
 		leia(a)
 		
 		escolha (a) {
+			caso 0:
+			escreva("Zero")
 			caso 1:
 			escreva("Um")
 			pare
