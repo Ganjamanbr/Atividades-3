@@ -21,6 +21,7 @@ programa
 	 	pare
 	 	caso contrario :
 	 	escreva("Valores Invalidos:")
+		retorne
 	 }
 	escreva("Seu novo salario e: ", total)
 	}
